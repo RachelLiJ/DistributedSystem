@@ -1,0 +1,10 @@
+server: a computer that provides client stations with access to files and printers as shared resources to a computer network
+client: any computer that is hooked up to a computer network
+read: to hear and understanding
+write: record data on a computer
+architecture: the structure of a computer's hardware or system software
+java: an object-oriented programming language
+multiple: more than one
+tea: a Chinese drink
+milk-tea: drink can make people fat
+rose: a red flower
